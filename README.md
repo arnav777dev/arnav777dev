@@ -21,28 +21,18 @@
 
 <div align="center">
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🎯 InterTrack](https://github.com/arnav777dev/InterTrack) | Interview & candidate tracking dashboard | React · TypeScript · Node.js · MongoDB |
-| [📰 NewsTrack](https://github.com/arnav777dev/NewsTrack) | Android news app with article saving | Kotlin · MVVM · Room DB |
-| [🛰️ CanSat](https://github.com/arnav777dev/CanSat) | Real-time telemetry visualizer for CanSat payload | Python · PyQt · Matplotlib |
-| [🌤️ SkyTrack](https://github.com/arnav777dev/skytrack) | Flutter weather app with dynamic backgrounds | Flutter · Dart · OpenWeatherMap |
+### 🛰️ CanSat — Real-time Telemetry Visualizer
+Real-time ground-station dashboard for a CanSat competition payload — parses live telemetry packets and visualizes altitude, temperature, and sensor data.
 
-</div>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-time--capsule--cansat.netlify.app-FFD700?style=for-the-badge&logo=netlify&logoColor=black)](https://time-capsule-cansat.netlify.app/)
+[![Repo](https://img.shields.io/badge/Source-arnav777dev%2FCanSat-grey?style=for-the-badge&logo=github)](https://github.com/arnav777dev/CanSat)
 
-<div align="center">
-  <a href="https://github.com/arnav777dev/InterTrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnav777dev&repo=InterTrack&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700" />
-  </a>
-  <a href="https://github.com/arnav777dev/NewsTrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnav777dev&repo=NewsTrack&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700" />
-  </a>
-  <a href="https://github.com/arnav777dev/CanSat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnav777dev&repo=CanSat&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700" />
-  </a>
-  <a href="https://github.com/arnav777dev/skytrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnav777dev&repo=skytrack&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700" />
-  </a>
+**Stack:** Python · PyQt · Matplotlib · Pandas · SciPy
+
+<a href="https://github.com/arnav777dev/CanSat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnav777dev&repo=CanSat&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700" />
+</a>
+
 </div>
 
 ## ⏱️ WakaTime Stats
