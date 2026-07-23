@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="batman.jpg" alt="Batman" width="400" />
+</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=arnav777dev&label=Profile%20views&color=0e75b6&style=flat)
 
