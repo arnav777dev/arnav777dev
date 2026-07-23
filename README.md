@@ -1,12 +1,6 @@
-<img src="batman.png" alt="Batman" width="100%" />
+<img src="banner.svg" alt="Arnav Banner" width="100%" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=arnav777dev&label=Profile%20views&color=0e75b6&style=flat)
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Arnav+%F0%9F%91%8B;Software+Engineer+%40+Twilio;Backend+%7C+Distributed+Systems;Building+things+that+scale" alt="Typing SVG" />
-  </a>
-</div>
 
 # 💫 About Me:
 👨🏽‍💻 I'm currently working as a Software Engineer at Twilio<br>🌱 I'm currently working on distributed event delivery pipelines and backend systems<br>💬 Ask me about anything, I am happy to help<br>📫 How to reach me: arnav777dev@gmail.com<br>
