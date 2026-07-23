@@ -35,23 +35,8 @@ Real-time ground-station dashboard for a CanSat competition payload — parses l
 
 </div>
 
-## ⏱️ WakaTime Stats
-[![wakatime](https://wakatime.com/badge/user/arnav777dev.svg)](https://wakatime.com/@arnav777dev)
-
-[![Arnav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arnav777dev&theme=dark&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@arnav777dev)
-
 # 📈 Activity Graph
 [![Arnav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arnav777dev&theme=github-compact&hide_border=true&area=true&color=FFD700&line=FFD700&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arnav777dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav777dev/arnav777dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav777dev/arnav777dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arnav777dev/arnav777dev/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arnav777dev&icon=0&color=0)](https://visitcount.itsvg.in)
