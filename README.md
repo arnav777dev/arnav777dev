@@ -1,36 +1,42 @@
-<img src="banner.svg" alt="Arnav Banner" width="100%" />
-
-![Profile views](https://komarev.com/ghpvc/?username=arnav777dev&label=Profile%20views&color=0e75b6&style=flat)
-
-# 💫 About Me:
-👨🏽‍💻 I'm currently working as a Software Engineer at Twilio<br>🌱 I'm currently working on distributed event delivery pipelines and backend systems<br>💬 Ask me about anything, I am happy to help<br>📫 How to reach me: arnav777dev@gmail.com<br>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnav777dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav777dev) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/arnav777dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnav777dev@gmail.com)
-
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-
-## 🚀 Projects
-
 <div align="center">
 
-### 🛰️ CanSat — Real-time Telemetry Visualizer
-Real-time ground-station dashboard for a CanSat competition payload — parses live telemetry packets and visualizes altitude, temperature, and sensor data.
+# Arnav
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-time--capsule--cansat.netlify.app-FFD700?style=for-the-badge&logo=netlify&logoColor=black)](https://time-capsule-cansat.netlify.app/)
-[![Repo](https://img.shields.io/badge/Source-arnav777dev%2FCanSat-grey?style=for-the-badge&logo=github)](https://github.com/arnav777dev/CanSat)
+**Software Engineer at Twilio**
+Distributed event delivery pipelines and backend systems.
 
-**Stack:** Python · PyQt · Matplotlib · Pandas · SciPy
-
-<a href="https://github.com/arnav777dev/CanSat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnav777dev&repo=CanSat&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav777dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arnav777dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arnav777dev)
 
 </div>
 
-# 📈 Activity Graph
-[![Arnav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arnav777dev&theme=github-compact&hide_border=true&area=true&color=FFD700&line=FFD700&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+## What I do
+
+I build backend systems that move a lot of events reliably, and I build the apps and dashboards that sit on top of them. Day to day that means Go, Kafka and AWS. On the side it means mobile, web and the occasional piece of hardware.
+
+## Stack
+
+| | |
+|---|---|
+| **Languages** | Go · TypeScript · Python · Kotlin · Dart · JavaScript |
+| **Backend & data** | Node.js · Kafka · PostgreSQL · MongoDB · Redis |
+| **Cloud & infra** | AWS · Docker · Terraform · GitHub Actions |
+| **Frontend & mobile** | React · Flutter |
+
+## Selected work
+
+### CanSat Telemetry Visualizer
+Ground-station dashboard for a CanSat competition payload. It parses live telemetry packets and plots altitude, temperature and sensor data in real time.
+
+`Python` `PyQt` `Matplotlib` `Pandas` `SciPy`
+
+[Live demo](https://time-capsule-cansat.netlify.app/) · [Source](https://github.com/arnav777dev/CanSat)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arnav777dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+<sub>Happy to talk about backend systems, mobile or hardware. Email is the fastest way to reach me.</sub>
+</div>
