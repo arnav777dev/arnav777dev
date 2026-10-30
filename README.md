@@ -28,7 +28,7 @@ I build backend systems that move a lot of events reliably, and I build the apps
 
 ## Selected work
 
-### Async Actions for SFMC Destinations
+### Segment- action-destinations: Async Actions for SFMC Destinations
 Extended the core Actions framework to support asynchronous execution for Salesforce Marketing Cloud destinations, integrating with SFMC's async APIs and adapting destination processing to handle asynchronous calls.
 
 `Async APIs` `Core framework`
