@@ -38,5 +38,5 @@ Ground-station dashboard for a CanSat competition payload. It parses live teleme
 ---
 
 <div align="center">
-<sub>Happy to talk about backend systems, mobile or hardware. Email is the fastest way to reach me.</sub>
+<sub>Happy to talk about backend systems, mobile or hardware.</sub>
 </div>
